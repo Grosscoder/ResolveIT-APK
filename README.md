@@ -24,7 +24,12 @@ A powerful troubleshooting and resolution management app for Android.
 🔗 **[Download APK](https://github.com/Grosscoder/ResolveIT-APK/releases/latest)**  
 
 Alternatively, install via **Google Play Store** (if available):  
-🔗 **[ResolveIT on Google Play](https://play.google.com/store/apps/details?id=com.israel.resolveitapp)**  
+
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.israel.resolveitapp">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="80">
+  </a>
+</p>  
 
 ---
 
