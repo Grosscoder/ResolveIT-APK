@@ -9,10 +9,9 @@ A powerful troubleshooting and resolution management app for Android.
 ---
 
 ## 📌 Features
-
-✅ **Automated Issue Detection** – Identify and resolve problems efficiently.  
+ 
 ✅ **Version Updates** – Supports **Google Play Store** & **direct APK updates** from GitHub.  
-✅ **Secure API Integration** – Uses **MailChimp, Google APIs, and GitHub API**.  
+✅ **Secure API Integration** – Uses **MailChimp, Google APIs**.  
 ✅ **Material Design 3** – Modern and intuitive user interface.  
 
 ---
