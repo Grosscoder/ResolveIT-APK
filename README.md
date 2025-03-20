@@ -1,30 +1,22 @@
-##ResolveIT - Android App
-
+# **🚀 ResolveIT - Android App**
 
 A powerful troubleshooting and resolution management app for Android.
 
+---
+
+## 📌 Features
+
+✅ Automated Issue Detection – Identify and resolve problems efficiently.  
+✅ Version Updates – Supports Play Store & direct APK updates.  
+✅ Secure API Integration – Uses MailChimp, Google APIs, GitHub API.  
+✅ Material Design 3 – Intuitive and modern UI.  
 
 ---
 
-📌 Features
+## 📥 Download & Install
 
-✅ Automated Issue Detection – Identify and resolve problems efficiently.
-✅ Version Updates – Supports Play Store & direct APK updates.
-✅ Secure API Integration – Uses MailChimp, Google APIs, GitHub API.
-✅ Material Design 3 – Intuitive and modern UI.
+### 🚀 Latest APK Release
 
+🔗 **[Download APK](https://github.com/Grosscoder/ResolveIT-APK/releases/latest)**  
 
----
-
-📥 Download & Install
-
-🚀 Latest APK Release
-
-🔗 Download APK
-
-Alternatively, install via Google Play Store (if available):
-
-market://details?id=com.israel.resolveitapp
-
-
----
+Alternatively, install via **Google Play Store** (if available):market://details?id=com.israel.resolveitapp
