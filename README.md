@@ -1,4 +1,4 @@
-ResolveIT - Android App
+#ResolveIT - Android App
 
 
 A powerful troubleshooting and resolution management app for Android.
