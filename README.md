@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://play.google.com/console/u/5/developers/7275440396353938692/app/4975679719731211390/app-dashboard?timespan=thirtyDays" alt="ResolveIT Logo" width="200">
+  <img src="https://lh3.googleusercontent.com/EB-vtxFt6RKC_9RdoAPE7_fwNL8upoWn7dGq0XH7JV79QdF2am6Q1Lv3yd85gzhEzhHD" alt="ResolveIT Logo" width="200">
 </p>
 
 # **🚀 ResolveIT - Android App**
