@@ -33,7 +33,7 @@ This project is licensed under the **MIT License**.
 ## 📞 Contact  
 
 👤 **Developer:** Israel Gross  
-📧 **Email:** [YourEmail@example.com]  
+📧 **Email:** [resolveitapp@gmail.com]  
 🔗 **GitHub:** [Grosscoder](https://github.com/Grosscoder)  
 
 ---
