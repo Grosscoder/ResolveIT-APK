@@ -22,7 +22,7 @@ A powerful troubleshooting and resolution management app for Android.
 
 <p align="left">
   <a href="https://github.com/Grosscoder/ResolveIT-APK/releases/latest">
-    <img src="https://github.com/Grosscoder/Images/releases/download/New/get-it-on-github.png" alt="Get it on GitHub" height="100" width="300">
+    <img src="https://objects.githubusercontent.com/github-production-release-asset-2e65be/952228798/33ba6831-5bc7-4028-8d3d-980a407c7445?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250321%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250321T001338Z&X-Amz-Expires=300&X-Amz-Signature=b678db6298bb2ff89512001430d30d4594666d9617d8a590b2d08749478479df&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dget-it-on-github.png&response-content-type=application%2Foctet-stream" alt="Get it on GitHub" height="100" width="300">
   </a>
 </p>
 
