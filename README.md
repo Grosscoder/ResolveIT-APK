@@ -22,10 +22,10 @@ A powerful troubleshooting and resolution management app for Android.
 
 <p align="left">
   <a href="https://github.com/Grosscoder/ResolveIT-APK/releases/latest">
-    <img src="https://github.com/user-attachments/assets/a3038847-f85b-4494-8452-d731b8b5eeb7" alt="Get it on GitHub" style="height: 60px;"/>
+    <img src="https://github.com/user-attachments/assets/a3038847-f85b-4494-8452-d731b8b5eeb7" alt="Get it on GitHub" height="60"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.israel.resolveitapp">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" style="height: 60px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="60"/>
   </a>
 </p>
 
