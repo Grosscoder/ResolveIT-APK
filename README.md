@@ -26,9 +26,10 @@ A powerful troubleshooting and resolution management app for Android.
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.israel.resolveitapp">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="60"/>
+    <style>a img { text-decoration: none; }</style>
   </a>
 </p>
-<style>a img { text-decoration: none; }</style>
+
 
 ---
 
