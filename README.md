@@ -28,6 +28,7 @@ A powerful troubleshooting and resolution management app for Android.
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="60"/>
   </a>
 </p>
+<style>a img { text-decoration: none; }</style>
 
 ---
 
